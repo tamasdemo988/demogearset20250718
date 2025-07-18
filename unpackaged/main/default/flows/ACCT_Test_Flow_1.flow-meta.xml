@@ -32,7 +32,13 @@
         <inputAssignments>
             <field>Website</field>
             <value>
-                <stringValue>www.test.com</stringValue>
+                <stringValue>www.testsite.com</stringValue>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
+            <field>YearStarted</field>
+            <value>
+                <stringValue>2020</stringValue>
             </value>
         </inputAssignments>
         <inputReference>$Record</inputReference>
